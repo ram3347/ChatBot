@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "mongoose": "^8.14.3",
+    "socket.io-client": "^4.8.1"
+  }
+}
